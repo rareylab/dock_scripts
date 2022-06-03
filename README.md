@@ -1,4 +1,4 @@
-# DOCK Script
+# DOCK Scripts
 
 A collection of scripts used to automated docking and de novo functionality of DOCK 6.9. To use the scripts
 the `config.ini` must be edited with paths to appropriate binaries (mostly included in a DOCK source distribution). The
